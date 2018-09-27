@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ssssedsfello Git!
-=======
-ssssdllo Git!
->>>>>>> test
+hello world!
